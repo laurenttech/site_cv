@@ -9,8 +9,4 @@ in_menu: true
         (Windows,Linux)<br>
         Installer, déployer et personnaliser un poste utilisateur<br>
         Intervenir sur un annuaire Active Directory<h4>
-    <h4></h4>
-        
-    
-  </section>
-` 
+    /section> 
