@@ -8,5 +8,5 @@ in_menu: true
     <h4>Câbler un réseaux <br>Installer/paramètrer OS / suite office<br>
         (Windows,Linux)<br>
         Installer, déployer et personnaliser un poste utilisateur<br>
-        Intervenir sur un annuaire Active Directory<h4>
+        Intervenir sur un annuaire Active Directory</h4>
     </section> 
