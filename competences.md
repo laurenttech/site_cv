@@ -3,8 +3,6 @@ title: "Compétences"
 order: 1
 in_menu: true
 ---
-# Competences
-
 #### Câbler un réseau
 #### Installer/paramétrer OS / suite office
 #### (Windows, Linux)
