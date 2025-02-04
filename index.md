@@ -7,5 +7,4 @@ in_menu: true
     
     <h1>LARKAN Laurent</h1>
     <p>Technicien en assistance informatique</p>
-    
-  </section> 
+</section> 
