@@ -1,8 +1,11 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
-
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+<section id="accueil">
+    <img src="photo2.jpg" width="350" height="511">
+    <h1>LARKAN Laurent</h1>
+    <p>Technicien en assistance informatique</p>
+    
+  </section> 
