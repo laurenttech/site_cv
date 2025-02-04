@@ -1,3 +1,80 @@
-:root {
-    --couleur-primaire : #2a6442;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 2rem;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #accueil {
+    background: linear-gradient(135deg, #f4f4f6, #2575fc);
+    color: #fff;
+  }
+  
+  .btn {
+    background: #fff;
+    color: #333;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  #CV {
+    background-color:darkred;
+    color: #fff;
+  }
+  #Competences {
+    background-image: url('fond1.jpg');
+    background-size: cover;
+    background-position: center; /* Centrer l'image */
+    background-repeat: no-repeat; /* Empêcher la répétition de l'image */
+    margin: 0; /* Enlever les marges par défaut */
+    height: 100vh; /* Hauteur de la fenêtre */
+    color: white; /* Texte en blanc pour contraster avec l'arrière-plan */
+    font-size: 2em;
+  }
+  #apropos {
+    font-size: 2em; /* Exemple : 2 fois la taille de la police par défaut */
+    font-family: "Comic Sans MS";
+    background-color:rgb(50, 133, 228);
+    color: black
+    }
+  #contact {
+    background: linear-gradient(90deg, #020bfb, #0e101f);
+    color: #fff;
 }
+  
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
